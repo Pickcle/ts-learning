@@ -4,10 +4,14 @@ var minus = require('./minus.js')
 // console.log('this is second commit on master')
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 var master = 4, dev = 2
 =======
 var master = 2, dev = 3
 >>>>>>> 2 3
+=======
+var master = 2, dev = 4
+>>>>>>> 2 4
 plus(master, dev)
 minus(master, dev)
 // var res2 = minus(3,10)
