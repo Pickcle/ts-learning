@@ -6,6 +6,7 @@ var minus = require('./minus.js')
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 var master = 4, dev = 2
 =======
 var master = 2, dev = 3
@@ -16,6 +17,9 @@ var master = 2, dev = 4
 =======
 var master = 3, dev = 4
 >>>>>>> 3 2
+=======
+var master = 4, dev = 4
+>>>>>>> 4 2
 plus(master, dev)
 minus(master, dev)
 // var res2 = minus(3,10)
